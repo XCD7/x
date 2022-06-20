@@ -17,7 +17,7 @@ DEV TEAM - icy#1000 ![image](https://cdn.discordapp.com/attachments/973860716413
 + everyone in the discord server! =)
 
 # VERSION
-- 1.3.2
+- 1.3.1
 
 # PATCH NOTES
 - New UI
