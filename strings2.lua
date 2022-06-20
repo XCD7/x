@@ -20,9 +20,8 @@
 		'',
 }
 	-- Randomizes Text --
-	wait(5)
 	while true do
 		wait(1)
-		print(hrases[math.random(1, #phrases)])
+		print(phrases[math.random(1, #phrases)])
 		script.Parent.Text = phrases[math.random(1, #phrases)]
 	end
