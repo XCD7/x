@@ -25,4 +25,4 @@
 - Updated Teleports
 - Updated ESP
 
-![image](https://cdn.discordapp.com/attachments/973860716413083690/988303136500350976/SnowbankScripts.png)
+![image](https://cdn.discordapp.com/attachments/973860716413083690/988308657504661534/SnowbankScripts-removebg-preview.png)
