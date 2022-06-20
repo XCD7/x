@@ -4,8 +4,8 @@
 
 - ------------------------------
 
-- ![image](https://cdn.discordapp.com/attachments/973860716413083690/988305428830101544/banhammer.png) HEAD STAFF - SEPO#8909
-
+- ⚒️ HEAD STAFF - SEPO#8909
+--------------------------------
 - ⚒️ Staff Team - Angry#8374
 - ⚒️ Staff Team - ant!#1000 (+ UI Inspiration)
 - ⚒️ Staff Team - 4PM#0001
@@ -13,7 +13,7 @@
 - ⚒️ Staff Team - plvk#8999
 - ⚒️ Staff Team - DOOMGANG | Cxpid#4665 
 
-------------------------------
+--------------------------------
 
 + everyone in the discord server! =)
 
