@@ -1,6 +1,6 @@
 # CREDITS
-LEAD DEV - doom#1000 ![image](https://cdn.discordapp.com/attachments/973860716413083690/988308262996815872/devver.png)
-DEV TEAM - icy#1000 ![image](https://cdn.discordapp.com/attachments/973860716413083690/988308262996815872/devver.png)
+# LEAD DEV - doom#1000 ![image](https://cdn.discordapp.com/attachments/973860716413083690/988308262996815872/devver.png)
+# DEV TEAM - icy#1000 ![image](https://cdn.discordapp.com/attachments/973860716413083690/988308262996815872/devver.png)
 
 - ------------------------------
 - HEAD STAFF - SEPO#8909
