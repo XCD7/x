@@ -1,6 +1,6 @@
 # CREDITS
-- 🔨 LEAD DEVELOPER - doom#1000 
-- 🔨 DEVELOPMENT TEAM - icy#1000
+- ![image](https://cdn.discordapp.com/attachments/973860716413083690/988308262996815872/devver.png) LEAD DEVELOPER - doom#1000 
+- ![image](https://cdn.discordapp.com/attachments/973860716413083690/988308262996815872/devver.png) DEVELOPMENT TEAM - icy#1000
 
 - ------------------------------
 
@@ -24,6 +24,5 @@
 - New UI
 - Updated Teleports
 - Updated ESP
-- 
 
 ![image](https://cdn.discordapp.com/attachments/973860716413083690/988303136500350976/SnowbankScripts.png)
